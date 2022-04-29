@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DB_Magaz</string>
+    <string name="Login">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="Enter">Войти</string>
+    <string name="Autoriz">Зарегестрироваться</string>
+    <string name="Open">Открыть</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="Users">Радактирование пользователей</string>
+    <string name="Users1">Радактирование профиля</string>
+    <string name="Save">Сохранить</string>
+    <string name="Delete">Удалить</string>
+    <string name="Prod">Товары</string>
+    <string name="Grup">Группа</string>
+    <string name="Cena">Цена</string>
+    <string name="Nazv">Наименование</string>
+
+
+</resources>
