@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DB_Magaz">
         <activity
+            android:name=".Main_Map"
+            android:exported="false" />
+        <activity
             android:name=".MainProd"
             android:exported="false" />
         <activity

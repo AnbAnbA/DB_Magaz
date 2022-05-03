@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         }
                         if(usernameField.getText().toString().equals(logCursor.getString(usernameIndex)) && passwordField.getText().toString().equals(logCursor.getString(passwordIndex))){
                             user = logCursor.getString(usernameIndex);
-                            startActivity(new Intent(this, MainP.class));
+                            startActivity(new Intent(this, Main_Map.class));
                             finish();
                             logged = true;
                             break;
